@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/react-portfolio/static/js/main.56bbbc63.js",
+    "static/media/ZamsRecipes.png": "/react-portfolio/static/media/ZamsRecipes.f0b3868ff7ea2ad15e01.png",
+    "static/media/Continental.png": "/react-portfolio/static/media/Continental.a01ce666eba17d59f39e.png",
+    "static/media/skypiercer.png": "/react-portfolio/static/media/skypiercer.07ad3293c9d684166753.png",
+    "static/media/click-safari.png": "/react-portfolio/static/media/click-safari.6b7cda042e48e12b4299.png",
+    "static/media/Petstop.png": "/react-portfolio/static/media/Petstop.919051616c6a6bc6585c.png",
+    "static/media/google.png": "/react-portfolio/static/media/google.1fbdce25b611e15e3a0b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.56bbbc63.js.map": "/react-portfolio/static/js/main.56bbbc63.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.56bbbc63.js"
+  ]
+}
